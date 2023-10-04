@@ -24,7 +24,7 @@ class BinarySrch
                 }
             }
         }
-		System.out.println("Enter value to find:");
+		System.out.println("Enter the value to find:");
 		srch = in.nextInt();
 		//BinarySrch
 		first = 0;
